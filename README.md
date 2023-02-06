@@ -16,3 +16,7 @@ This is a player versus computer game. The player and computer will each throw o
 ##Found a bug?
 
 Please feel free to contact me at lovestartravels@gmail.com so any bugs can be corrected.
+
+---
+permalink: /index.html
+---
